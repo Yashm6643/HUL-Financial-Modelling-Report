@@ -1,4 +1,4 @@
-# 📊 Hindustan Unilever Limited — Financial Modeling & Valuation
+# 📊 Hindustan Unilever Limited — Financial Modelling & Valuation
 
 ![Excel](https://img.shields.io/badge/Tool-Microsoft%20Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=flat)
@@ -14,7 +14,7 @@
 
 ```
 HUL-Financial-Modeling/
-├── HUL_Financial_Model.xlsx              # Master Excel workbook (11 analysis tabs)
+├── HUL_Financial_Model.xlsx              # Master Excel workbook 
 ├── HUL_Financial_Modeling_Report.pdf    # Full formatted PDF report
 ├── README.md                            # Project documentation
 

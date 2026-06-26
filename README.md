@@ -14,7 +14,7 @@
 
 ```
 HUL-Financial-Modeling/
-├── HUL_Financial_Model.xlsx              # Master Excel workbook (11 analysis tabs)
+├── HUL_Financial_Model.xlsx              # Master Excel workbook 
 ├── HUL_Financial_Modeling_Report.pdf    # Full formatted PDF report
 ├── README.md                            # Project documentation
 └── screenshots/

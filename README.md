@@ -14,17 +14,17 @@
 
 ```
 HUL-Financial-Modeling/
-├── HUL_Financial_Model.xlsx              # Master Excel workbook 
+├── HUL_Financial_Model.xlsx              # Master Excel workbook (11 analysis tabs)
 ├── HUL_Financial_Modeling_Report.pdf    # Full formatted PDF report
 ├── README.md                            # Project documentation
-└── screenshots/
-    ├── 01_one_page_profile.png
-    ├── 02_historical_financials.png
-    ├── 03_ratio_analysis.png
-    ├── 04_wacc_calculation.png
-    ├── 05_dcf_valuation.png
-    ├── 06_football_field.png
-    └── 07_dupont_analysis.png
+
+
+
+
+
+
+
+
 ```
 
 ---
@@ -68,25 +68,25 @@ This is an end-to-end equity research and financial modeling project on **Hindus
 ## 📸 Screenshots
 
 ### One Page Profile
-![One Page Profile](screenshots/01_one_page_profile.png)
+![One Page Profile](01_one_page_profile.png)
 
 ### Historical Financial Statement
-![Historical Financials](screenshots/02_historical_financials.png)
+![Historical Financials](02_historical_financials.png)
 
 ### Ratio Analysis
-![Ratio Analysis](screenshots/03_ratio_analysis.png)
+![Ratio Analysis](03_ratio_analysis.png)
 
 ### Beta Drifting & WACC
-![WACC](screenshots/04_wacc_calculation.png)
+![WACC](04_wacc_calculation.png)
 
 ### DCF Valuation
-![DCF](screenshots/05_dcf_valuation.png)
+![DCF](05_dcf_valuation.png)
 
 ### Football Field — Valuation Summary
-![Football Field](screenshots/06_football_field.png)
+![Football Field](06_football_field.png)
 
 ### DuPont Analysis
-![DuPont](screenshots/07_dupont_analysis.png)
+![DuPont](07_dupont_analysis.png)
 
 ---
 

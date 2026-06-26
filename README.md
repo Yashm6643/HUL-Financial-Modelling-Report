@@ -252,7 +252,7 @@ The collapse was driven entirely by asset turnover falling from 2.2x to 0.8x aft
 B.Voc (BFSI) — Ramanujan College, University of Delhi | CGPA: 8.50  
 NISM Series XV Certified
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yash%20Mishra-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yash%20Mishra-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashsimplifyingideas/)
 
 ---
 
